@@ -1,12 +1,6 @@
 # 🤖 WALL-E – Autonomous Obstacle-Avoiding Robot
 
-## 📦 Repository Name
-WALL-E-Autonomous-Obstacle-Avoiding-Robot
-
-## 📝 Repository Description
-Autonomous obstacle-avoiding robot built using Arduino, ultrasonic sensors, and motor drivers as an academic electronics engineering project.
-
----
+--
 
 ## 🏫 College
 PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune
@@ -14,8 +8,8 @@ PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune
 ---
 
 ## 👥 Team Members
-1. Om Joshi  
-2. Khushal Choudhary  
+1. Khushal Choudhary  
+2. Om Joshi  
 3. Aryan Ahirrao  
 4. Virendra Bendale  
 5. Sarthak Ghogare  
